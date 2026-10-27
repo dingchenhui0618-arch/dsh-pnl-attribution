@@ -1,0 +1,12 @@
+# Demo holdings for dsh-pnl-attribution — fictional position sizes, public
+# A-share codes only. Replace with your own file at
+# ~/.dsh/pnl-attribution/holdings.csv (code,name,shares,cost).
+code,name,shares,cost
+600519,贵州茅台,100,1320.00
+300750,宁德时代,400,245.00
+601318,中国平安,1200,48.20
+000858,五粮液,500,128.50
+002594,比亚迪,300,310.00
+600036,招商银行,1500,38.60
+601899,紫金矿业,2000,18.90
+000651,格力电器,1000,42.30
